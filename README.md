@@ -6,7 +6,8 @@
 
 ---
 **Repository:** `Face-Mask-Detection`  
-**Authors:** Ibrahim Mohamed & Islam Ahmed
+**Authors:** *Ibrahim Mohamed & Eslam Ahmed*
+
 ---
 
 ## 🚀 Project Overview
