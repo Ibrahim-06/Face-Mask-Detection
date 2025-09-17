@@ -208,8 +208,8 @@ When you run the notebook, you should expect:
 Please paste your links below in the README once available:
 
 - **Project Video (LinkedIn post):** [PASTE_LINK_TO_LINKEDIN_POST_HERE]
-- **Contact Email:** [Ibrahim.06.dev@gmail.com]
-- **LinkedIn Profile:** [[Ibrahim Mohamed](https://www.linkedin.com/in/ibrahim-mohamed-211-)]
+- **Contact Email:** Ibrahim.06.dev@gmail.com
+- **LinkedIn Profile:** [Ibrahim Mohamed](https://www.linkedin.com/in/ibrahim-mohamed-211-)
 
 ---
 
