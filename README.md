@@ -1,9 +1,12 @@
 
 # 😷 Face-Mask-Detection
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Libraries](https://img.shields.io/badge/Libraries-tensorflow%2C%20numpy%2C%20pandas%2C%20matplotlib%2C%20opencv--python%2C%20Pillow%2C%20scikit--learn%2C%20h5py%2C%20jupyter%2C%20seaborn%2C%20streamlit%2C%20streamlit--webrtc-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
+---
 **Repository:** `Face-Mask-Detection`  
 **Authors:** Ibrahim Mohamed & Islam Ahmed
-
 ---
 
 ## 🚀 Project Overview
@@ -47,11 +50,37 @@ Face-Mask-Detection/
 ├─ requirements.txt
 ├─ to_test/
 │     └─ Images        
-└─ README.txt
-        
+└─ README.txt    
 ```
 
 > **Note:** The notebook used in this project expects the dataset at `dataset/` and will create `split_dataset/` with the structure above.
+
+---
+
+## 🛠️ Requirements
+
+**Recommended Python version:** 3.8+  
+Install packages with:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+Example `requirements.txt` (core packages):
+```
+tensorflow>=2.5
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+scikit-learn
+h5py
+jupyter
+seaborn
+```
+
+> Optional (for deployment/UI): `streamlit`, `streamlit-webrtc`
 
 ---
 
@@ -59,7 +88,7 @@ Face-Mask-Detection/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/<your-username>/Face-Mask-Detection.git
+   git clone https://github.com/ibrahim-06/Face-Mask-Detection.git
    cd Face-Mask-Detection
    ```
 
@@ -67,11 +96,8 @@ Face-Mask-Detection/
    ```bash
    python -m pip install -r requirements.txt
    ```
-
-3. **Place your raw images**
-   - Put images in `dataset/with_mask/` and `dataset/without_mask/`.
-
-4. **Run the Notebook**
+   
+3. **Run the Notebook**
    - Open the Jupyter Notebook (e.g., `notebooks/Face_Mask_Notebook.ipynb`) and run cells in order.
    - The notebook performs:
      - Dataset split (creates `split_dataset/`)
@@ -182,7 +208,7 @@ Please paste your links below in the README once available:
 
 - **Project Video (LinkedIn post):** [PASTE_LINK_TO_LINKEDIN_POST_HERE]
 - **Contact Email:** [Ibrahim.06.dev@gmail.com]
-- **LinkedIn Profile:** [https://www.linkedin.com/in/ibrahim-mohamed-211-]
+- **LinkedIn Profile:** [[Ibrahim Mohamed](https://www.linkedin.com/in/ibrahim-mohamed-211-)]
 
 ---
 
